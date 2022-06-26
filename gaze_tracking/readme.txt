@@ -1,0 +1,1 @@
+First we have to install Anaconda Navigator,install numpy,install dlib library,install pandas,install opencv,install hypot and then create virtual environment for using dlib library and we are using python 2.7 and then run autism.py file 
